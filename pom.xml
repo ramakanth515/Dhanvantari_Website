@@ -6,7 +6,7 @@
   <groupId>padmavathi</groupId>
   <artifactId>ramakanth</artifactId>
   <packaging>pom</packaging>
-  <version>1992-RELEASE</version>
+  <version>1992-SNAPSHOT</version>
   <name>Maven Project</name>
   <description>Sample Maven project with a working, deployable site.</description>
   <url>http://www.example.com</url>
